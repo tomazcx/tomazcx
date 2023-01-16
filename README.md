@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing my highschool at IFC Campus Videira integrated with a computer technician course, besides studying web development.
-- 🌱 I’m currently learning TypeScript, JavaScript, React, Tailwind and others.
+- 🔭 Formed as a computer technitician at IFC Campus Videira.
+- 🌱 I’m currently learning React, NodeJS, Typescript and more.
 - 📫 How to reach me: tomazcx06@gmail.com
