@@ -39,3 +39,6 @@ Passionate about programming, I've been studying a various number of technologie
  <img width="70rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  </div>
 
+##
+
+![snake gif](https://github.com/tomazcx/tomazcx/blob/output/github-contribution-grid-snake.svg)
