@@ -7,8 +7,8 @@
 ##
 
 <div>
-    <img heigth="180rem" src="https://github-readme-stats.vercel.app/api?username=tomazcx&theme=tokyonight&show_icons=true"  />
-    <img heigth="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazcx&theme=tokyonight&layout=compact" />
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=tomazcx&theme=tokyonight&show_icons=true"  />
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazcx&theme=tokyonight&layout=compact" />
 </div>
 <br />
 <div> 
