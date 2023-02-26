@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning React, NodeJS, Typescript and more.
 
 ### How to reach me:
-
-##
+ 
+ You can contact me through my social media accounts or you can discover more about me in my portfolio!
  
  <div>
   <a href="https://tomazcx.site" target="_blank" ><img height="40rem" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -21,11 +21,12 @@
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=tomazcx&theme=tokyonight&show_icons=true"  />
     <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazcx&theme=tokyonight&layout=compact" />
 </div>
-<br />
+
+##
 
 ### Technologies that I use in my projects
 
-##
+Passionate about programming, I've been studying a various number of technologies to become a fullstack web developer!
 
 <div> 
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
