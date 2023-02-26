@@ -5,7 +5,7 @@
 
 ### How to reach me:
  
- You can contact me through my social media accounts or you can discover more about me in my portfolio!
+ You can reach me in any of my social media above or you can discover more about me in my portfolio!
  
  <div>
   <a href="https://tomazcx.site" target="_blank" ><img height="40rem" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
