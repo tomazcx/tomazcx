@@ -22,7 +22,7 @@
  <img width="70rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  </div>
  
- 
+ ### Technologies that I use in my projects
  ##
  
  <div>
