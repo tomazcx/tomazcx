@@ -20,8 +20,8 @@
     <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazcx&theme=tokyonight&layout=compact" />
 </div>
 <br />
- ### Technologies that I use in my projects
- ##
+### Technologies that I use in my projects
+##
 <div> 
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
