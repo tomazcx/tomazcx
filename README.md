@@ -26,9 +26,9 @@
  ##
  
  <div>
-  <a href="https://tomazcx.site" target="_blank" ><img height="55rem" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
- <a href="https://linkedin.com/in/tomazcx" target="_blank" ><img height="55rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="https://instagram.com/tomazcx" target="_blank" ><img height="55rem" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/tomazcx" target="_blank" ><img height="55rem" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://tomazcx.site" target="_blank" ><img height="40rem" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+ <a href="https://linkedin.com/in/tomazcx" target="_blank" ><img height="40rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://instagram.com/tomazcx" target="_blank" ><img height="40rem" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/tomazcx" target="_blank" ><img height="40rem" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
