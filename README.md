@@ -1,11 +1,19 @@
-### Hello! I am Tomaz Xavier! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315EFF&height=120&section=header"/>
 
-- 🔭 Formed as a computer technitician at IFC Campus Videira.
-- 🌱 I’m currently learning React, NodeJS, Typescript and more.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=315EFF&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Tomaz+Xavier!;I'm+a+fullstack+web+developer!+:%29)](https://git.io/typing-svg)
+<br/>
+<br/>
+
+<div align="center">
+    <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tomazcx&theme=tokyonight&show_icons=true&bg_color=0d1117&hide_border=true"  />
+    <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tomazcx&theme=tokyonight&layout=compact&bg_color=0d1117&hide_border=true" />
+</div>
+
+##
+
 
 ### How to reach me:
- 
- You can reach me in any of my social media above or you can discover more about me in my portfolio!
+
  
  <div>
   <a href="https://tomazcx.site" target="_blank" ><img height="40rem" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -15,18 +23,10 @@
 </div>
 
 
-##
-
-<div>
-    <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tomazcx&theme=tokyonight&show_icons=true"  />
-    <img height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tomazcx&theme=tokyonight&layout=compact" />
-</div>
 
 ##
 
 ### Technologies that I use in my projects
-
-Passionate about programming, I've been studying a various number of technologies to become a fullstack web developer!
 
 <div> 
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -42,3 +42,5 @@ Passionate about programming, I've been studying a various number of technologie
 ##
 
 ![snake gif](https://github.com/tomazcx/tomazcx/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315EFF&height=120&section=footer"/>
