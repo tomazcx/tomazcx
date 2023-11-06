@@ -27,7 +27,7 @@
 
 ### Technologies that I use in my projects
 
-<div> 
+<div style="margin: 0 auto"> 
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />          
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
