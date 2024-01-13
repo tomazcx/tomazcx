@@ -26,10 +26,11 @@
 
 ### Technologies that I use in my projects
 
-<div style="margin: 0 auto"> 
+<div style="margin: 0 auto">       
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />          
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+ <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />    
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />       
  <img width="70rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />      
