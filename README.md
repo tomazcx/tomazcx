@@ -34,7 +34,7 @@
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
  <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />       
  <img width="70rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />          
- <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+ <img width="60rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
  </div>
 
 ##
