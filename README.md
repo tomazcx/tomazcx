@@ -16,7 +16,7 @@
 
  
  <div>
-  <a href="https://tomazcx.site" target="_blank" ><img height="40rem" src="https://img.shields.io/badge/-me%20PORTFÓLIO-black?style=for-the-badge" /></a>
+  <a href="https://tomazcx.vercel.app" target="_blank" ><img height="40rem" src="https://img.shields.io/badge/-me%20PORTFÓLIO-black?style=for-the-badge" /></a>
  <a href="https://linkedin.com/in/tomazcx" target="_blank" ><img height="40rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
